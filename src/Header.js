@@ -31,6 +31,7 @@ function Header() {
                 <HeaderOption Icon={BusinessCenterIcon} title="Jobs" />
                 <HeaderOption Icon={ChatIcon} title="Messaging" />
                 <HeaderOption Icon={NotificationsIcon} title="Notifications" />
+                <HeaderOption avatar="https://www.fenerbahce.org/FB/media/FB/pic_lib/2013-02-21_soner446.jpg" title="me" />
             </div>
 
         </div>

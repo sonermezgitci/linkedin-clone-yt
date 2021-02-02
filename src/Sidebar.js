@@ -12,11 +12,11 @@ function Sidebar() {
                 <h4>sonermezgitci9@gmail.com</h4>
             </div>
             <div className="sidebar__stats">
-                <div className="sidebar__stats">
+                <div className="sidebar__stat">
                     <p> Who viewed you</p>
                     <p className="sidebar__statNumber">2,534</p>
                 </div>
-                <div className="sidebar__stats">
+                <div className="sidebar__stat">
                     <p> Views on post</p>
                     <p className="sidebar__statNumber">2,200</p>
 

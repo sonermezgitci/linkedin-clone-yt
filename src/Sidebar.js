@@ -5,7 +5,7 @@ import { Avatar } from "@material-ui/core"
 function Sidebar() {
     const recentItem = (topic) => {
         <div className="sidebar__recentItem">
-            <span className="sidebar__hash"></span>
+            <span className="sidebar__hash">#</span>
             <p>{topic}</p>
         </div>
     };
@@ -30,9 +30,6 @@ function Sidebar() {
                     <p className="sidebar__statNumber">2,200</p>
 
                 </div>
-
-
-
             </div>
             <div className="sidebar__bottom ">
                 <p> Recent</p>
